@@ -1,0 +1,14 @@
+.aut-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.aut-menu{
+    display: flex;
+    column-gap: 10px;
+}
+.aut-menu a{
+    text-decoration: none;
+}

@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  margin: 0 auto;
+}
+.App>div{
+ flex:1;
+ border: 1px solid gray;
+ padding: 10px;
+}
+.user-list li{
+  cursor: pointer;
+  list-style-type: none;
+}
+.user-list li:hover{
+  color: blue;
+}
+
+

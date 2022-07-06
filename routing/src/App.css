@@ -1,0 +1,28 @@
+ul li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li{
+  list-style: none;
+}
+.menu {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+ 
+  column-gap: 10px;
+}
+
+.form >div > label{
+  display: block;
+}
+.form >div >input {
+  display: block ;
+  padding: 8px;
+}
+.form > div{
+  margin-left: 40px;
+}
+.button{
+  margin-left: 40px;
+}
